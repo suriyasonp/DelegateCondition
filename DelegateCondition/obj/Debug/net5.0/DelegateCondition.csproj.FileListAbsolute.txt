@@ -1,0 +1,16 @@
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\bin\Debug\net5.0\DelegateCondition.exe
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\bin\Debug\net5.0\DelegateCondition.deps.json
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\bin\Debug\net5.0\DelegateCondition.runtimeconfig.json
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\bin\Debug\net5.0\DelegateCondition.runtimeconfig.dev.json
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\bin\Debug\net5.0\DelegateCondition.dll
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\bin\Debug\net5.0\ref\DelegateCondition.dll
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\bin\Debug\net5.0\DelegateCondition.pdb
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\DelegateCondition.csproj.AssemblyReference.cache
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\DelegateCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\DelegateCondition.AssemblyInfoInputs.cache
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\DelegateCondition.AssemblyInfo.cs
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\DelegateCondition.csproj.CoreCompileInputs.cache
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\DelegateCondition.dll
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\ref\DelegateCondition.dll
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\DelegateCondition.pdb
+C:\Users\lthsos0\source\repos\DelegateCondition\DelegateCondition\obj\Debug\net5.0\DelegateCondition.genruntimeconfig.cache
